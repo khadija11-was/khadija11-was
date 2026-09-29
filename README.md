@@ -6,9 +6,9 @@ I’m a final-year Software Engineering student who enjoys building new systems 
 
 I’m naturally curious about how things work and enjoy moving between different areas of software engineering.
 
-💡 Why Tech?
+## 💡 Why Tech?
 
-Two things keep me interested in technology:
+### Two things keep me interested in technology:
 
 🔎 Constant discovery
 Technology never really stands still. New tools, ideas, architectures, and approaches appear every day, which keeps me curious and gives me something new to learn and explore.
@@ -51,11 +51,8 @@ I like that software engineering allows me to move between different fields. I c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-
 
 
 ## 📚 Currently Learning
